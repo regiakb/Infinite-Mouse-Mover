@@ -1,5 +1,5 @@
 # Infinite-Mouse-Mover
-Simple script to move mouse infinitely. Works in Windows. No privileges required.
+Simple script to move mouse infinitely. Works on Windows. No privileges required.
 
 **REQUIERES .NET FRAMEWORK**
 
